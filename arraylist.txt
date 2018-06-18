@@ -1,0 +1,10 @@
+class Array
+{
+public static void main(String args[])
+{
+ArrayList<String> al= new ArrayList<String>();
+al.add("anu");
+al.add("sweety");
+System.out.println(al);
+}
+}
